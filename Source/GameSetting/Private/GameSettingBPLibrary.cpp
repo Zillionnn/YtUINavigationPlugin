@@ -1,4 +1,5 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright (c) Yntoo, 2026
+//  All Rights Reserved.
 
 #include "GameSettingBPLibrary.h"
 #include "GameSetting.h"

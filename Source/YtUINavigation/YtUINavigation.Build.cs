@@ -1,5 +1,5 @@
-// Some copyright should be here...
-
+// Copyright (c) Yntoo, 2026
+// All Rights Reserved.
 using UnrealBuildTool;
 
 public class YtUINavigation : ModuleRules
