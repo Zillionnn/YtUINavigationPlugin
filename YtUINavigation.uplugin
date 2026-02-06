@@ -17,12 +17,14 @@
 		{
 			"Name": "YtUINavigation",
 			"Type": "Runtime",
-			"LoadingPhase": "PreLoadingScreen"
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [ "Win64" ]
 		},
 		{
 			"Name": "GameSetting",
 			"Type": "Runtime",
-			"LoadingPhase": "PreLoadingScreen"
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [ "Win64" ]
 		}
 	]
 }

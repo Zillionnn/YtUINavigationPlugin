@@ -1,4 +1,5 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright (c) Yntoo, 2026
+//  All Rights Reserved.
 
 #pragma once
 
