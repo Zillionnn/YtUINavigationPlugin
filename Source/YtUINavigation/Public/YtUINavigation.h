@@ -1,5 +1,6 @@
 // Copyright (c) Yntoo, 2026
 // All Rights Reserved.
+
 #pragma once
 
 #include "Modules/ModuleManager.h"
